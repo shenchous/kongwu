@@ -1245,7 +1245,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffb9ff;
+  background: #ff600f;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2467,7 +2467,7 @@ header.post-header {
   }
 }
 .site-brand-container {
-  background: #222;
+  background: url("../images/header.webp");
 }
 @media (max-width: 991px) {
   .site-brand-container {
@@ -2475,7 +2475,7 @@ header.post-header {
   }
 }
 .site-meta {
-  padding: 20px 0;
+  padding: 35px 0;
 }
 .brand {
   padding: 0;
@@ -2518,7 +2518,7 @@ header.post-header {
 }
 .menu .menu-item a,
 .menu .menu-item span.exturl {
-  padding: 5px 20px;
+  padding: 5px 25px;
   position: relative;
   text-align: left;
   transition-property: background-color;
@@ -2657,7 +2657,7 @@ header.post-header {
   margin-right: 2px;
 }
 .links-of-blogroll-item {
-  padding: 0;
+  padding: 3px;
 }
 .back-to-top {
   background: var(--body-bg-color);
